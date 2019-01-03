@@ -14,7 +14,4 @@ class NAMELESS_API UNamelessGameInstance : public UGameInstance
 {
 	GENERATED_BODY()
 	
-	
-	
-	
 };

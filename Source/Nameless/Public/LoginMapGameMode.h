@@ -14,7 +14,4 @@ class NAMELESS_API ALoginMapGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
 	
-	
-	
-	
 };
